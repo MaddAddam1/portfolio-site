@@ -1,0 +1,15 @@
+
+.footer-container {
+    grid-row: 12/16;
+    grid-column: 1/-1;
+    background: black;
+
+    display: flex;
+    flex-direction: row;
+    flex-flow: wrap;
+}
+
+.footer-container h3 {
+
+    color: white;
+}

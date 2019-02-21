@@ -1,0 +1,24 @@
+
+
+.app-bar-container {
+   
+    grid-column: 1/-1;
+    background: black;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.appbar-site-name {
+    color: white;
+    font-family: 'Righteous', cursive;
+    margin-left: 15px;
+    font-size: 30px;
+}
+
+.appbar-sections {
+    color: white;
+}
+

@@ -1,0 +1,5 @@
+
+.right-sidebar-container {
+    grid-column: 11/13;
+    grid-row: 2/6;
+}
